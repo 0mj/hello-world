@@ -3,3 +3,5 @@
 # from midas solon getting the ody serviced :D
 nothing
 really but changes
+
+directory on laptop -> ------------------------>C:\Users\e0170285\Documents\GitHub\
