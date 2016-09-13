@@ -2,7 +2,8 @@
 
 class desk
 {
-        
+      
+      /*changes are good*/  
     const USER = 'USERNAME';
     const PASS = 'PASSWORD';
     const BASE_URL = 'https://host.ok';
