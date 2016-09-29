@@ -6,3 +6,5 @@ Study
 branches.
 ignore files (for passwords & usernames)
 
+#where's pull request?
+
