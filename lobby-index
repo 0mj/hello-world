@@ -1,3 +1,7 @@
+https://help.github.com/articles/setting-your-username-in-git/
+	<code>git config --global user.name "Mona Lisa"</code>
+
+
 
 # --- 
 from 
